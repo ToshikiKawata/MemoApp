@@ -7,6 +7,8 @@
 
 import UIKit
 
+//テスト用コメント
+
 class ViewController: UIViewController, UITextViewDelegate {
 
     @IBOutlet weak var textView: UITextView!
